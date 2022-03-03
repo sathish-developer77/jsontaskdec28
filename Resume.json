@@ -1,0 +1,50 @@
+{
+  "basics": {
+    "name": "J.sathish kumar",
+    "email": "sathish567@@gmail.com",
+    "phone": "8807451425",
+    "degree": "B.E",
+    "summary": "I am a full-stack developer",
+    "location": {
+      "address": "othavadai street",
+      "city": "Thiruvotiyur,Chennai",
+      "country": "India"
+    },
+    "profiles": [
+      {
+        "network": " Instagram",
+        "username": "sathish_jaganathan"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "RMk Engineering college",
+      "area": "ECE",
+      "studyType": "Fulltime",
+      "startDate": "01-6-2015",
+      "endDate": "10-07-2018",
+      "gpa": "6.50"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["('Python','SQL','JavaScript')"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    { "language": "Tamil", "fluency": "professional" }
+  ],
+  "interests": [
+    {
+      "name": "Develop coding",
+      "keywords": ["('websites', 'userinterface')"]
+    }
+  ]
+}
